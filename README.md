@@ -2,7 +2,7 @@
 
 ![yolov4_detections](write-up-images/cover_photo.jpg)
 
-The algorithm can distinguish PET, plastic, light_bulb, paper and cardboard garbages. It had 16 FPS in average on a Tesla P100-PCI-E-16GB 
+The algorithm can distinguish PET, plastic, light_bulb, paper and cardboard garbages. It had 16 FPS in average on a Tesla P100-PCI-E-16GB  
 
 ## Project steps
 1. Record the video
